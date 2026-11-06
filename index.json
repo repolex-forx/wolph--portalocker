@@ -1,0 +1,11 @@
+{
+  "org": "wolph",
+  "repo": "portalocker",
+  "versions": [
+    {
+      "commit": "6dbcbb2b3e428cf6064dcd7dc279503059a5299a",
+      "tag": "",
+      "parsed_at": "2026-11-06T03:05:54.061616+00:00"
+    }
+  ]
+}
