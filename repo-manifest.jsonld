@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/wolph/portalocker/commit/6dbcbb2b3e428cf6064dcd7dc279503059a5299a",
       "git:hexsha": "6dbcbb2b3e428cf6064dcd7dc279503059a5299a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T03:05:54.060979+00:00"
     },
     {
       "@id": "https://repolex.ai/r/wolph/portalocker/commit/0806422c4a54e0ac238c01a52ee069d4ab0cf884",
